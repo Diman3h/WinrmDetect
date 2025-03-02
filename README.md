@@ -9,3 +9,4 @@
 
 Перед развёртыванием код превращался в исполняемый файл с использованием PyInstaller. Для сборки также использовался флаг --noconsole, чтобы в будующем собрать программу в службу через nssm:
 pyinstaller --onefile --noconsole winrm_detector.py
+![image](https://github.com/user-attachments/assets/7b154f07-a9a8-4890-92b5-9fce9b82ea17)
